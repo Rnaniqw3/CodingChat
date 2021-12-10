@@ -10,6 +10,6 @@ $ cd CodingChatProfessional
 ## Create your Professional plan
 
 
-$ make
+$ ./install.sh
 ### Congratulations!
 You have successfully installed CCP!
