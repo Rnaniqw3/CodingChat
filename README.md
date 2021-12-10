@@ -9,7 +9,9 @@ $ git clone https://github.com/Rnaniqw3/CodingChat/CCProfessional
 $ cd CCProfessional
 ## Create your Professional plan
 $ ./install.sh
+
 $ cd CCP
+
 $ make
 ### Congratulations!
 You have successfully installed CCP!
