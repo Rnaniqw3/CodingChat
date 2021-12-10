@@ -6,7 +6,7 @@ How to get Professional plan:
 
 $ git clone https://github.com/Rnaniqw3/CodingChatProfessional
 
-$ cd CCProfessional
+$ cd CodingChatProfessional
 ## Create your Professional plan
 
 
