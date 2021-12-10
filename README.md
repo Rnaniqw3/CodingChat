@@ -4,7 +4,7 @@ CodingChat is a free, open-source way to share your code! Available with Persona
 How to get Professional plan:
 
 
-$ git clone https://rnaniqw3.github.com/CodingChat/CCProfessional
+$ git clone https://github.com/Rnaniqw3/CodingChat/CCProfessional
 
 $ cd CCProfessional
 ## Create your Professional plan
